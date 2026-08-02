@@ -1,4 +1,5 @@
 # Employee Attrition Prediction
+🔗 **Live App:** https://hr-attrition-prediction-tty4ahsywikcxakvdtfiu4.streamlit.app/
 
 Predicts whether an employee is likely to leave a company, using the IBM HR Analytics dataset. Built as an end-to-end ML project — from raw data to a deployed prediction app.
 
